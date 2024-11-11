@@ -1,3 +1,6 @@
+- [YouTube Playlist Link](https://youtube.com/playlist?list=PLzjZaW71kMwScTRKzoasdyB1sX-a9EbFp&si=dYRykDJySTbNvj0E)
+<!-- currently on video 9 -->
+<!-- github: backend-learnings/backend -->
 # What is NodeJS
 
 - Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to execute JavaScript code outside of a web browser. It is built on Chrome's V8 JavaScript engine, which compiles JavaScript code directly to native machine code, making it highly efficient and performant.
@@ -231,3 +234,5 @@ Database => MongoDB
 - bcrypt.genSalt(no of rounds) // 10
 - is responsible for generating salt
 - which is a random string of characters used as an additional input to the password
+
+<!--  -->
